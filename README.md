@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: attempting to access an array element using an index equal to the array's length.  In ActionScript, arrays are zero-indexed, meaning the first element is at index 0, the second at index 1, and so on.  The last element is at index length - 1.  This example shows the error and its solution.
